@@ -6,7 +6,8 @@ A fully responsive, component-driven React application built to replicate the ex
 
 ## 🚀 Live Demo
 
-🌐 Hosted Link: [Click here to view the app](https://e-commerce-product-list-app.vercel.app/)  
+🌐 Hosted Link: [Click here to view the app](https://e-commerce-product-list-app.vercel.app/)
+
 📦 GitHub Repo: [https://github.com/ibrahim9492/E-Commerce-Product-List-app](https://github.com/ibrahim9492/E-Commerce-Product-List-app)
 
 ---
